@@ -109,8 +109,15 @@ This interpretation aligns with observations from systems biology and network ag
 while remaining independent of specific computational implementations.
 
 ---
+## 5. Discussion
+The framework presented here reframes cellular aging not as a collection of independent molecular damages, but as a system-level loss of proportionality across interacting biological domains. This perspective offers a unifying explanation for several long-standing observations in aging biology that remain only partially addressed by existing models.
+First, it clarifies why local or pathway-specific interventions often yield transient benefits without restoring global function. If aging emerges from misalignment between energy expenditure, informational fidelity, structural adaptability, and functional value, then correcting a single domain cannot re-establish coherence once cross-domain proportionality has been lost. This provides a structural explanation for the partial and non-durable effects observed in many rejuvenation strategies.
+Second, the framework naturally explains the presence of threshold-like behavior in aging trajectories. Rather than a smooth, linear accumulation of damage, aging appears to involve phase transitions triggered when incongruity exceeds a critical level. This aligns with empirical observations of abrupt functional decline, senescence onset, and reduced resilience following long periods of apparent stability.
+Third, the model accommodates partial reversibility without invoking full system reset. Observations such as epigenetic reprogramming, caloric restriction, and selective autophagy can be interpreted as temporary realignments that reduce divergence among domains, without restoring proportionality at the global scale. In this sense, aging is not merely slowed but locally re-coordinated, consistent with incomplete rejuvenation phenomena reported across species.
+Importantly, this framework is intentionally implementation-agnostic. It does not propose specific molecular interventions, therapeutic protocols, or predictive algorithms. Instead, it provides a structural lens through which diverse aging-related processes can be interpreted, compared, and integrated, while remaining compatible with existing mechanistic theories.
+From this perspective, aging can be understood as a problem of scale and coherence rather than chemistry alone. Preventing or delaying functional collapse may therefore depend less on eliminating individual sources of damage, and more on preserving proportional alignment across biological domains over time.
 
-## 5. Observational Implications
+## 6. Observational Implications
 
 The framework supports observational analysis based on publicly available datasets,
 including energetic, informational, and structural indicators.
@@ -121,7 +128,7 @@ scales.
 
 ---
 
-## 6. Scope and Limitations
+## 7. Scope and Limitations
 
 This work:
 - Does not propose clinical therapies
@@ -134,7 +141,7 @@ cellular aging.
 
 ---
 
-## 7. Conclusion
+## 8. Conclusion
 
 Cellular aging can be coherently described as a problem of proportion and scale,
 rather than isolated biochemical failure.
