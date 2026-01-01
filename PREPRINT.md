@@ -55,6 +55,18 @@ At the cellular level, aging emerges as divergence among:
 Loss of proportionality across these domains precedes observable failure.
 
 ---
+**Figure 1 | Aging as Progressive Loss of Proportionality Across Biological Domains**
+Conceptual schematic representation (not to scale):
+[ INFORMATION ]
+               ↑
+               |
+               |
+[ ENERGY ] —— [ PROPORTIONAL CORE ] —— [ STRUCTURE ]
+               |
+               |
+               ↓
+        [ FUNCTIONAL VALUE ]
+Figure 1. Conceptual representation of cellular aging as a progressive loss of proportionality among four interacting domains: Energy, Information, Structure, and Functional Value. In youthful or adaptive states, these domains remain proportionally aligned, allowing coherent system-level function. With aging, divergence accumulates across domains, increasing energetic cost, informational noise, structural rigidity, and declining functional output. Once a critical incongruity threshold is reached, the system undergoes a phase transition into senescence or dysfunction.        
 
 ## 3. Aging as Structural Drift
 
@@ -67,10 +79,23 @@ Characteristic manifestations include:
 - Structural rigidity and reduced adaptability
 - Declining functional resilience
 
-Once a critical level of incongruity is reached, systems transition into senescence,
-inflammation, or dysfunction through threshold-like behavior.
+Once a critical level of incongruity is reached, systems may undergo a phase transition into senescence, inflammation, or dysfunction through threshold-like behavior.
 
 ---
+**Conceptual trajectory schematic (not to scale):**
+High Congruity
+│\
+│ \
+│  \
+│   \        Partial intervention
+│    \______
+│           \
+│            \
+│             X  ← Critical incongruity threshold
+│              \
+│               ↓ Senescence / dysfunction
+│
+└────────────────────────────── Time
 
 ## 4. Relationship to Existing Models
 
