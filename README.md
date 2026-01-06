@@ -1,5 +1,15 @@
 # Cellular-Aging-Congruity-7.0
 A theoretical and observational framework for studying cellular aging as a loss of proportionality, using reproducible indicators derived from public datasets.
+## Scope, Boundaries, and Non-Clinical Nature
+
+This repository presents **conceptual and theoretical** frameworks only.
+
+- It is **not** medical, clinical, or therapeutic guidance.
+- It does **not** provide diagnosis, treatment, or personalized advice.
+- It does **not** introduce operational thresholds, executable decision rules, or predictive guarantees.
+- Any practical application requires **independent empirical validation** and domain-specific review.
+
+The goal is **clarity, boundedness, and falsifiability where possible**, without over-claiming.
 > **IP / Scope Notice:** see [IP_NOTICE.md](./IP_NOTICE.md)  
 > Open science (discussion + observation). Protected structure (no implementation details).
 A proportionality-based theoretical framework (Congruity 7.0) for modeling, measuring, and potentially halting cellular aging through systemic coherence, energy balance, and information integrity.
